@@ -1,7 +1,8 @@
-package com.giantstrideltd.coderswag
+package com.giantstrideltd.coderswag.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.giantstrideltd.coderswag.R
 
 class MainActivity : AppCompatActivity() {
 
